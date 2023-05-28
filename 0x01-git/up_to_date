@@ -1,1 +1,1 @@
-git fetch origion, git checkout main, and git merge origin/main
+git pull
